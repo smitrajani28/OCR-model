@@ -1,0 +1,15 @@
+.main-bg-color{
+    background-color: #9db0ec !important;
+}
+
+.card-main-container-100{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.login-form-main-conatainer{
+    margin: 10px;
+}
